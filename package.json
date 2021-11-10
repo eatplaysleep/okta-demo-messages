@@ -10,7 +10,7 @@
 	"license": "Apache-2.0",
 	"homepage": "https://github.com/okta/samples-nodejs-express-4",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node index.js"
 	},
 	"devDependencies": {},
 	"dependencies": {
